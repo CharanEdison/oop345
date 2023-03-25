@@ -1,0 +1,21 @@
+
+// Workshop 3
+// Version: 1.0
+// Date: 2022/01/30
+// Name:Charan Edison Arulraj
+//Seneca Student ID:143594208
+//Seneca email:cedison-arulraj@mysseneca.ca
+
+While doing this workshop I attended the class and watched recording and some YouTube videos, course notes to make myself strong in the concepts have also referred w3schools,
+
+While doing this workshop I learned to design and code a class template, to template a class variable ,to specialize a templated class variable for a particular type, to instantiate a template class, to specialize a member function of a templated class to process a particular type and finally to  derive a templated class from another templated class.
+
+Starting with templates
+------------------------
+
+It is a feature in the c++ which allows functions and classes to operate with the generic types ,it also allows functions to work on other data types without being called or re written even single time.
+
+The function template acts like a except which the template has the arguments of many more types.
+
+The Class template provides a specification for generating the classes based on the parameters,
+ These are some of my learnings while doing this workshop.

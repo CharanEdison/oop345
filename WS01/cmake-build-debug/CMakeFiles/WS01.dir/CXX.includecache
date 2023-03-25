@@ -1,0 +1,50 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../part 2/foodorder.h
+
+/Users/charanedison/Desktop/Sem-3/OOP345/OOP-Workshops-main 6/WS01/part 1/w1_p1.cpp
+iostream
+-
+iomanip
+-
+fstream
+-
+foodorder.h
+/Users/charanedison/Desktop/Sem-3/OOP345/OOP-Workshops-main 6/WS01/part 1/foodorder.h
+foodorder.h
+/Users/charanedison/Desktop/Sem-3/OOP345/OOP-Workshops-main 6/WS01/part 1/foodorder.h
+
+/Users/charanedison/Desktop/Sem-3/OOP345/OOP-Workshops-main 6/WS01/part 2/foodorder.cpp
+iostream
+-
+fstream
+-
+iomanip
+-
+string
+-
+cstring
+-
+foodorder.h
+/Users/charanedison/Desktop/Sem-3/OOP345/OOP-Workshops-main 6/WS01/part 2/foodorder.h
+
+/Users/charanedison/Desktop/Sem-3/OOP345/OOP-Workshops-main 6/WS01/part 2/foodorder.h
+
+/Users/charanedison/Desktop/Sem-3/OOP345/OOP-Workshops-main 6/WS01/part 2/w1_p2.cpp
+iostream
+-
+iomanip
+-
+fstream
+-
+foodorder.h
+/Users/charanedison/Desktop/Sem-3/OOP345/OOP-Workshops-main 6/WS01/part 2/foodorder.h
+foodorder.h
+/Users/charanedison/Desktop/Sem-3/OOP345/OOP-Workshops-main 6/WS01/part 2/foodorder.h
+
